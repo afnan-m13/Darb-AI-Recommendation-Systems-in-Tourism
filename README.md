@@ -1,4 +1,4 @@
-# 🚖 Darb — Tourism Platform with Zero-Trust Safety
+# 🚖 Darb — AI-Recommendation Systems in Tourism
 
 > *"Your Journey, Your Way."* — A smart, secure tourism and ride-hailing platform connecting tourists with verified local drivers across Saudi Arabia.
 
